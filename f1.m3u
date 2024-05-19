@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="Dazn F1 FHD 6MB" tvg-logo="http://picons.pompella.xyz/picons/daznf1hd.png" group-title="10. DAZN",Dazn F1 FHD 6MB
+http://miromas.in:8880/4Cey8wVBkKmZKYQ/OtRGiferkWtDw8q/3701
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 HD" tvg-logo="http://picons.pompella.xyz/picons/daznf1.png" group-title="10. DAZN",DAZN F1 HD
+http://miromas.in:8880/4Cey8wVBkKmZKYQ/OtRGiferkWtDw8q/205
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 1080" tvg-logo="http://picons.pompella.xyz/picons/daznf1hd.png" group-title="10. DAZN",DAZN F1 1080
+http://miromas.in:8880/4Cey8wVBkKmZKYQ/OtRGiferkWtDw8q/203
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 FHD" tvg-logo="http://picons.pompella.xyz/picons/daznf1hd.png" group-title="10. DAZN",DAZN F1 FHD
+http://miromas.in:8880/4Cey8wVBkKmZKYQ/OtRGiferkWtDw8q/204
